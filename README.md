@@ -1,5 +1,4 @@
-# django_test
-Django app to track corporate assets
+# Django App to track corporate assets
 
 System Requirements: Python Version >= 3.8.0
 
@@ -18,7 +17,7 @@ python manage.py migrate
 Step 3: Run the server<br />
 python manage.py runserver
 
-DOCUMENTATION FOR USING THE API
+## Documentation
 
 1. GET http://127.0.0.1:8000/   <br />
 Returns a list of all companies, employees of those companies, and devices of those companies
